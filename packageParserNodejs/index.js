@@ -1,7 +1,7 @@
 var bcv_parser = require("bible-passage-reference-parser/js/en_bcv_parser").bcv_parser;
 var bcv = new bcv_parser;
 
-var inputFile = './input/dt_dump.json';
+var inputFile = './input/dt_input.json';
 
 var output = [];
 

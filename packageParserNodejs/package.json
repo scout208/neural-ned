@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bible-passage-reference-parser": "file:../Bible-Passage-Reference-Parser-master",
-    "express": "^4.16.4"
+    "bible-passage-reference-parser": "^2.0.1"
   }
 }
